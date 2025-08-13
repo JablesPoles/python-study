@@ -1,6 +1,6 @@
 # My Python Learning Projects 🐍
 
-Welcome! This repository is a collection of my personal projects, scripts, and coding challenges developed while learning Python.
+This repository is a collection of my personal projects, scripts, and coding challenges developed while learning Python.
 
 The goal of this space is to document my journey, showcase my skills, and serve as a living portfolio of my progress. Feel free to explore the code!
 
